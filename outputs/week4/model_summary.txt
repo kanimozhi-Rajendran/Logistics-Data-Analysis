@@ -1,0 +1,10 @@
+WEEK 4 PREDICTIVE MODELING SUMMARY
+Records used: 20
+Selected model: Decision Tree
+Cross-validation MAE: 0.333 days
+Test MAE: 0.000 days
+Test RMSE: 0.000 days
+Test R-squared: 1.000
+Word report: D:\Logistics-Data-Analysis\outputs\week4\Week4_Predictive_Modeling_Report.docx
+Charts folder: D:\Logistics-Data-Analysis\outputs\week4\charts
+Note: Small illustrative dataset; results are educational.
