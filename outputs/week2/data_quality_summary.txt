@@ -1,0 +1,39 @@
+WEEK 2: DATA CLEANING AND PREPROCESSING
+Original rows: 20
+Rows after removing duplicates: 20
+Duplicate rows detected before removal: 0
+
+Missing values before cleaning:
+Order_ID: 0
+Order_Date: 0
+Warehouse: 0
+Destination: 0
+Distance_km: 0
+Shipping_Cost: 0
+Delivery_Days: 0
+Expected_Days: 0
+Vehicle_Type: 0
+Weather: 0
+Traffic_Level: 0
+Order_Quantity: 0
+
+Missing values after cleaning:
+Order_ID: 0
+Order_Date: 0
+Warehouse: 0
+Destination: 0
+Distance_km: 0
+Shipping_Cost: 0
+Delivery_Days: 0
+Expected_Days: 0
+Vehicle_Type: 0
+Weather: 0
+Traffic_Level: 0
+Order_Quantity: 0
+
+Outlier detection: IQR method
+Outliers are flagged in outlier_report.csv.
+They are not automatically deleted or capped.
+Normalization: Min-Max scaling to the 0-1 range.
+Cleaned data: cleaned_logistics_data.csv
+Normalized data: normalized_logistics_data.csv

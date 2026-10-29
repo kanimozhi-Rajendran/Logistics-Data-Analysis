@@ -1,0 +1,6 @@
+Column,Q1,Q3,Lower_Bound,Upper_Bound,Outlier_Count
+Distance_km,137.5,377.5,-222.5,737.5,0
+Shipping_Cost,837.5,1950.0,-831.25,3618.75,0
+Delivery_Days,1.75,3.0,-0.125,4.875,0
+Expected_Days,2.0,2.0,2.0,2.0,7
+Order_Quantity,48.75,102.5,-31.875,183.125,0
